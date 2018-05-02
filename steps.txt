@@ -1,0 +1,11 @@
+Steps taken:
+1. Created git hub repo.
+2. creat local repo folder.
+3. Git init the local repo inside the local repo folder.
+4. ran git remote add origin https://github.com/moequraishi/basic_repo.git to connect to the remote repository on github.
+5. created readme.md file, and added contents, commited the changes.
+6. Used git add ., git commit -m "initial commit", git push origin master
+7. Changed file, recommited and pushed to repo.
+8. Used git status to check for changes.
+9. Visited github to see my changes.
+10. Wrote this file, committed and pushed it to github.
